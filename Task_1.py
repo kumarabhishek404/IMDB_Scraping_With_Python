@@ -68,4 +68,4 @@ def scrape_top_list():
 		my_dict={'1_Name':'','2_Year':'','3_Position':'','4_Rating':'','5_Url':''}
 	return movies
 
-# pprint(scrape_top_list())
+pprint(scrape_top_list())
